@@ -1,4 +1,4 @@
-# WikiLinkScrapper- this program is a web scraper designed to enter a word in wikipedia
+# WikiLinkScrapper- this program is a web scraper designed to begin with one wikipedia page
 # and follow the first x numbered link to other wikipedia pages y number of times.
 # I think it would be amusing to see where it ends up.
 
